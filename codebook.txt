@@ -1,0 +1,235 @@
+NMUPS Project
+
+Q2 Have you ever had a prescription for any drugs meant to treat ADHD (e.g. Ritalin, Dexedrine, Adderall, Concerta,  Adhansia, Adhansia, other branded/generic drugs that contain methylphenidate, Vyvanse, Focalin,  Strattera, Intuniv, Kapvay) in the past 12 months ?   -Eligibility Question1
+o	Yes  (1) 
+o	No  (2) 
+
+
+
+Q3 On how many occasions in the past 12 months can you recall taking any of the following drugs not prescribed to you: Ritalin, Dexedrine, Adderall, Concerta, or any other branded/generic drugs that you consider associated with them?
+o	No occasions  (1) 
+o	1-5 occasions  (2) 
+o	6-10 occasions  (3) 
+o	11-20 occasions  (4) 
+o	21-30 occasions  (5) 
+o	31-40 occasions  (6) 
+o	41 or more occasions  (7) 
+o	Rather not say  (8) 
+
+
+
+Q4 When have you ever taken any of them for the first time?
+o	Never  (8) 
+o	Grade K-4  (1) 
+o	Grade 5-6  (2) 
+o	Grade 7-8  (3) 
+o	Grade 9-10  (4) 
+o	Grade 11-12  (5) 
+o	College  (6) 
+o	Rather not say  (7) 
+
+
+
+Q5 Whether you have actually taken any of those drugs or not, what would be the main reason why you consider taking them (select all that apply)?  - Eligibility Question 2
+▢	Because it helps me concentrate  (1) 
+▢	Because it helps increase my alertness  (2) 
+▢	Because it gives me a high  (3) 
+▢	Because it counteracts the effects of other drugs  (4) 
+▢	Because it helps me study  (5) 
+▢	Because it helps me lose weight  (6) 
+▢	Because of experimentation  (7) 
+▢	Because it's safer than street drugs  (8) 
+▢	Because I'm addicted  (9) 
+▢	I would never consider taking them  (12) 
+▢	Rather not say  (11) 
+
+
+
+Q6 What can your school do to improve your learning experiences (does not have to be related to drug use)  
+________________________________________________________________
+
+End of Block: NMUPS
+
+Start of Block: Financial questions
+
+Q7 Which of the following best describes your employment status?
+o	Unemployed  (1) 
+o	Part-time employee  (2) 
+o	Full-time employee  (3) 
+o	Seeking employment  (4) 
+
+
+
+Q8 How many hours a week do you work for pay?
+o	0 (not working currently)  (1) 
+o	1-6  (2) 
+o	7-12  (3) 
+o	13-18  (4) 
+o	19-24  (5) 
+o	25-30  (6) 
+o	31-36  (7) 
+o	37-40  (8) 
+o	More than 40  (9) 
+
+
+
+Q9 How is your present financial situation impacting your academic progress? Please use the slider below to indicate your answer.  
+	I Feel Comfortable	I Feel Overwhelmed
+
+	1	2	3	4	5	6	6	7	8	9	10
+
+- (1)	
+
+
+
+
+Q10 What impact has your financial situation had on your ability to remain enrolled in college? Please use the slider below to indicate your answer.  
+	No Impact at All	Overwhelming Impact
+
+	1	2	3	4	5	6	6	7	8	9	10
+
+- (1)	
+
+
+
+
+Q11 Does your financial situation affect your ability to concentrate on your studies?
+o	Yes  (1) 
+o	No  (2) 
+
+End of Block: Financial questions
+
+Start of Block: Academic Locus of Control Questions
+
+Q12 Please rate your agreement with the following statements:  I read extra material around topics so that I am as knowledgeable as possible
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+
+
+Q13 I use time wisely to achieve my academic goals
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+
+
+Q14 I attempt to master most of the material I learn at school
+o	Strongly disagree  (5) 
+o	Somewhat disagree  (6) 
+o	Neither agree nor disagree  (7) 
+o	Somewhat agree  (8) 
+o	Strongly agree  (9) 
+
+
+
+Q15 I use peer and lecturer information to improve my work
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+
+
+Q16 I will do my best in my field of study
+o	Strongly disagree  (5) 
+o	Somewhat disagree  (6) 
+o	Neither agree nor disagree  (7) 
+o	Somewhat agree  (8) 
+o	Strongly agree  (9) 
+
+
+
+Q17 I am confident in my abilities to gain the most from my school life
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+
+ 
+
+Q18 I have my own unique strategy to achieve my academic goals
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+
+
+Q19 Ability is the key to academic success
+o	Strongly disagree  (1) 
+o	Somewhat disagree  (2) 
+o	Neither agree nor disagree  (3) 
+o	Somewhat agree  (4) 
+o	Strongly agree  (5) 
+
+End of Block: Academic Locus of Control Questions
+
+Start of Block: Demographics
+
+Q20 What is your current GPA?
+	0	1	1	2	2	3	3	4
+
+Please drag slider to correct number ()	 
+
+
+
+
+Q21 What race/ethnicity best describes you? Select all that apply 
+▢	African American  (1) 
+▢	Asian  (2) 
+▢	Indigenous (Native American or Pacific Islander)  (3) 
+▢	Hispanic or Latino  (4) 
+▢	Middle Eastern or North African  (12) 
+▢	White  (13) 
+▢	Other  (14) 
+
+
+
+Q22 What is your gender identity?
+o	Female  (1) 
+o	Male  (2) 
+o	Non-binary / Gender fluid  (3) 
+o	Other (Please specify)  (4) __________________________________________________
+o	Prefer not to say  (5) 
+
+End of Block: Demographics
+
+Start of Block: Group 2
+ 
+
+Q23 Thank you for participating.     Please click this link to claim your gift card.    
+
+End of Block: Group 2
+
+Start of Block: Group 3
+ 
+
+Q24 Thank you for participating.     Please click this link to claim your gift card. 
+
+End of Block: Group 3
+
+Start of Block: Group 4
+ 
+
+Q25 Thank you for participating.    Please click this link to claim your gift card.
+
+End of Block: Group 4
+
+Start of Block: Group 1 
+ 
+
+Q26 Thank you for participating.     Please click this link to claim your gift card.    
+
+End of Block: Group 1 
+
+
